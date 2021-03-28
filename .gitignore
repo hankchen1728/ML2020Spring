@@ -1,0 +1,16 @@
+# Ignore the folder and files listed following
+
+**/__pycache__/
+
+**/.ipynb_checkpoints/
+
+**/notebooks/
+
+**/data/
+
+**/*.csv
+**/*.jpg
+**/*.png
+**/*.pkl
+
+kaggle_cmd.sh
